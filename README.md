@@ -6,11 +6,11 @@ Welcome to my GitHub profile! I'm Dinesh Kumar Kushwaha, a passionate coder and 
 
 Here are some of the noteworthy projects I have worked on:
 
-### Project 1
+### Project 1 [OIBSIP]
 
-Description: [Provide a brief description of your project.]
+Description: [Java development project by OASIS INFOBYTE.
 
-Link: [Add a link to the repository or project page.]
+Link: [https://github.com/Dineshkumarkushwaha/OIBSIP]
 
 ### Project 2
 
